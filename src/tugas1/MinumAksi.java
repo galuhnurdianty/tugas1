@@ -11,6 +11,8 @@ package tugas1;
  */
 public class MinumAksi {
     public static void main(String[] args) {
-        
+        Minum kemasan_besar = new Minum();
+        Minum kemasan_sedang = new Minum();
+        Minum kemasan_kecil = new Minum();
     }
 }
