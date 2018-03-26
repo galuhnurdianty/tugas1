@@ -32,5 +32,9 @@ public class MinumAksi {
         kemasan_kecil.rasa="Manis";
         kemasan_kecil.warna="Putih";
         kemasan_kecil.harga="8000";
+        
+        kemasan_besar.cetakInfo();
+        kemasan_sedang.cetakInfo();
+        kemasan_kecil.cetakInfo();
     }
 }
